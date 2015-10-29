@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,300,600' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+    <title>Hawaii</title>
+
+    <style>
+
+        html, body, h1, h2, h3, h4, h5, h6 {
+            padding: 0;
+            margin: 0;
+            max-width: 733px;
+            max-height: 628px;
+            
+        }    
+
+        .story {
+            margin-left: 615px;
+            margin-top: 290px;
+            width: 25%;
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: 300px;
+            background: rgb(0,0,0 50%);
+            border: 5px solid lightblue;
+            padding: 30px;
+            padding-bottom: 30px;
+            padding-top: 30px;
+            position: fixed;
+            color: BLACK;
+            line-height: 18px;
+        }
+
+        .story h1 {
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: 400px;
+            font-size: 28px;
+        }
+
+
+
+        .selfie {
+            position:fixed;
+            margin-top: 45px;
+            margin-left: 210px;
+
+        }
+
+        .hula {
+            position: fixed;
+            margin-top: 85px;
+            margin-left: 650px;
+        }
+
+        .hula1 {
+            position: fixed;
+            margin-top: 376px;
+            margin-left: 440px;
+        }
+
+
+
+        .continue {
+            background: lightblue;
+            color: white;
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: 300px;
+            font-size: 30px;
+            width: 60px;
+            position: absolute;
+            text-align: center;
+            padding: 10px;
+            padding-right: 4px;
+            padding-left: 4px;
+            margin-left: 975px;
+            margin-top: 385px;
+        }
+
+        a {
+            color: black;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: white;
+            text-decoration: none;
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+<img class="hula" src="http://i1383.photobucket.com/albums/ah294/rcvillo/P9127133_zpsnba1anwh.jpg" width="300px">
+
+<img class="selfie" src="http://i1383.photobucket.com/albums/ah294/rcvillo/IMG_8242_zpsapgihadi.jpg" width="430px">
+
+<img class="hula1" src="http://31.media.tumblr.com/tumblr_mc51nrKK0A1r4rv7no1_500.gif" width="200px">
+
+
+
+<div class="story">
+    <h1>TIME FOR A LUAU</h1>
+    <p>Although their ideal vacation hadn't gone exactly as planned, Raeanne, Claire, and Paige still had a lot to celebrate. They had successfully completed their four years at Marymount and were all going to great colleges. Finally, luck was on their side. Their final day in Kauai, the skies finally cleared up  and they decided that it was time to wrap up their vacation with a luau! They enjoyed traditional hawaiian food, music, and dancing. Overall, it may not have been the trip they planned, but they enjoyed their time together and they can't wait until next year so they could plan their next one!</p>
+</div>
+
+<div class="continue">
+    <a href="http://rcvillo.github.io/project2/end.html"> > </a>
+</div>
+
+
+
+</body>
+</html>
+
